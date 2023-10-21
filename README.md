@@ -123,4 +123,6 @@ mutation {
 
 Estos ejemplos te permitirán realizar operaciones CRUD en tu lista de libros a través de GraphQL en el puerto 4000.
 
+## Agradecimientos
+
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
