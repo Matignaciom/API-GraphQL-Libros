@@ -35,7 +35,7 @@ Este proyecto proporciona una interfaz GraphQL para administrar una lista de lib
 3. Instala las dependencias:
 
    ```bash
-   npm install
+   npm install express apollo-server graphql
    ```
 
 ## Uso
