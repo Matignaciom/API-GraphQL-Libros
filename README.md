@@ -65,7 +65,7 @@ GraphQL ofrece un enfoque más flexible y eficiente para interactuar con tus API
 1. Inicia el servidor GraphQL en el puerto 4000:
 
    ```bash
-   npm start
+   node index.js
    ```
 
 2. Abre tu navegador o una herramienta de cliente GraphQL como GraphiQL o Apollo Client y accede a `http://localhost:4000` para comenzar a interactuar con la API.
